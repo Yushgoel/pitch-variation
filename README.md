@@ -5,7 +5,7 @@ Detecting Pitch Variation Programmatically
 The .m4a and .wav files are the same, just different format. I recorded it in proprietary software, so had to convert it.
 
 - "hello.wav" - Me saying hello.
-- "hello_stretch.wav" - Me saying hel-lo. 
+- "hello_stretch.wav" - Me saying hel-lo (essentially different intonation). 
 - "hello_long.wav" - Me saying hello followed by silence for background noise.
 - "test.m4a" - sample audio (recorded this recently. Will use it after doing more testing on single words).
 
